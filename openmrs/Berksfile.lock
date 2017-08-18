@@ -1,0 +1,7 @@
+DEPENDENCIES
+  openmrs
+    path: .
+    metadata: true
+
+GRAPH
+  openmrs (0.1.0)
